@@ -11,8 +11,8 @@ A GUI tool written in Python and Qt to configure and analyze different servo mot
 It's primary aim was to provide a cross platform tool running on Linux, OSX and Windows.
 Besides offering an overview of the connected servo motors and their current configuration in a table view it provides a 2D plot to visualize motor data.
 
-Install
-=======
+Dependencies
+============
 ```
 sudo apt-get install python-serial python-qwt5-qt4
 ```
